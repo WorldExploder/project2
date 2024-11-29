@@ -1,7 +1,6 @@
-kjhcdsjkbsvjkd
-kbndcsvjkbwjklvb
-nsckod vnm,222223
-26346546
-15216416512
-aasdacfd12121
-12121
+def main():
+    print('My first git program')
+
+
+if __name__ == '__main__':
+    main()
